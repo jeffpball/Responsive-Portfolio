@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-A portfolio of projects showcasing responsive web design.
+# Basic-Portfolio
+Web Developer Portfolio
